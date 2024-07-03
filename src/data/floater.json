@@ -1,0 +1,19 @@
+{
+  "Floater": [
+    {
+      "Description": "Deck",
+      "Material": "PLY, 3/4",
+      "UOM": "SF"
+    },
+    {
+      "Description": "Foam",
+      "Material": "PE 2#, 3\"",
+      "UOM": "BF"
+    },
+    {
+      "Description": "Desiccant",
+      "Material": "DESICCANT, 16-U",
+      "UOM": "EA"
+    }
+  ]
+}

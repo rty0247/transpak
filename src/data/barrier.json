@@ -1,0 +1,24 @@
+{
+  "Barrier_Bag": [
+    {
+      "Description": "Flat Sheet",
+      "Material": "MIL-PRF-131K",
+      "UOM": "SF"
+    },
+    {
+      "Description": "Sides/Ends",
+      "Material": "MIL-PRF-131K",
+      "UOM": "SF"
+    },
+    {
+      "Description": "Desiccant",
+      "Material": "DESICCANT, 16-U",
+      "UOM": "EA"
+    },
+    {
+      "Description": "Flat Sheet",
+      "Material": "DURA-SKRIM",
+      "UOM": "SF"
+    }
+  ]
+}

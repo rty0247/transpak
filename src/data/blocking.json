@@ -1,0 +1,24 @@
+{
+  "Blocking": [
+    {
+      "Description": "Well member",
+      "Material": "LBR, 2X6",
+      "UOM": "BF"
+    },
+    {
+      "Description": "Well member",
+      "Material": "LBR, 2X6",
+      "UOM": "BF"
+    },
+    {
+      "Description": "Well member",
+      "Material": "LBR, 4X4",
+      "UOM": "BF"
+    },
+    {
+      "Description": "Desiccant",
+      "Material": "DESICCANT, 16-U",
+      "UOM": "EA"
+    }
+  ]
+}
